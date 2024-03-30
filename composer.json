@@ -1,0 +1,10 @@
+{
+  "name": "jvies/humhub-modules-auth-authelia",
+  "description": "Integrating Authelia Sign-In (OAuth 2.0)",
+  "minimum-stability": "stable",
+  "type": "library",
+  "require": {
+    "php": ">=8.0",
+    "web-token/jwt-key-mgmt": ">=1.0 <3.0"
+  }
+}

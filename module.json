@@ -1,0 +1,24 @@
+{
+  "id": "auth-authelia",
+  "name": "Authelia Sign-In",
+  "description": "Integrating Authelia Sign-In (OpenID Connect)",
+  "keywords": [
+    "auth",
+    "authelia",
+    "OpenID"
+  ],
+  "version": "0.0.1",
+  "humhub": {
+    "minVersion": "1.15"
+  },
+  "homepage": "https://github.com/jvies/humhub-modules-auth-authelia",
+  "authors": [
+    {
+      "name": "Jérémy VIES",
+      "homepage": "https://github.com/jvies",
+      "role": "Developer"
+    }
+  ],
+  "screenshots": [
+  ]
+}
