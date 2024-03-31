@@ -23,6 +23,10 @@ And follow the instructions.
 
 https://github.com/jvies/humhub-modules-auth-authelia
 
+## Origin
+
+The code is heavily inspired from the module [Keyclock Sign-in](https://github.com/cuzy-app/humhub-modules-auth-keycloak) from [CUZY.APP](https://www.cuzy.app/).
+
 ## Licence
 
 [GNU AGPL](https://github.com/jvies/humhub-modules-auth-authelia/blob/master/docs/LICENCE.md)
